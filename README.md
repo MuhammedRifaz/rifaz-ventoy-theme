@@ -1,10 +1,10 @@
 # Rifaz Ventoy Theme
 
+<img width="1347" height="784" alt="IMG_6383" src="https://github.com/user-attachments/assets/69dbacc6-e9b0-4ffc-874b-5fa85cc5b3b0" />
+
 <p align="center">
   <i>Modern glassmorphism boot theme with bold, vibrant visuals</i><br>
 </p>
-
----
 
 ## ✨ Overview
 
